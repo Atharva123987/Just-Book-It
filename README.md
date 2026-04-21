@@ -62,6 +62,13 @@ This project is split into 3 main components:
 - Openrouter.ai
 
 ---
+## 📱 Download App
+
+👉 [Download APK](https://github.com/Atharva123987/Just-Book-It/releases/tag/v1.0.0)
+
+> Note: Enable "Install from unknown sources" on your Android device.
+
+---
 
 ## 🎯 Goal
 
