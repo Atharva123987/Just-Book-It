@@ -47,9 +47,9 @@ This project is split into 3 main components:
 
 ## 🔗 Repositories
 
-- Frontend: [[link]](https://github.com/Atharva123987/Ticket-Booking-System-FE)
-- Backend (Go): [[link]](https://github.com/Atharva123987/Ticket-Booking-System)
-- AI Service (Python): [[link]](https://github.com/Atharva123987/Movie-Booking-Ai-Agent)
+- Frontend: [[link]](https://github.com/Atharva123987/JustBookIt-FE)
+- Backend (Go): [[link]](https://github.com/Atharva123987/JustBookIt-BE)
+- AI Service (Python): [[link]](https://github.com/Atharva123987/JustBookIt-AI-layer)
 
 ---
 
