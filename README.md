@@ -64,8 +64,8 @@ This project is split into 3 main components:
 ---
 ## 📱 Download App
 
-👉 [Download APK](https://github.com/Atharva123987/Just-Book-It/releases/tag/v1.0.0)
-👉 Website: https://just-book-it-ok.vercel.app/
+- 👉 [Download APK](https://github.com/Atharva123987/Just-Book-It/releases/tag/v1.0.0)
+- 👉 Website: https://just-book-it-ok.vercel.app/
 > Note: Enable "Install from unknown sources" on your Android device.
 
 ---
